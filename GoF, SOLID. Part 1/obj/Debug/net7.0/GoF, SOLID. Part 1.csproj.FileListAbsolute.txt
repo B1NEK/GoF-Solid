@@ -1,0 +1,5 @@
+/Users/petrbinek/Projects/GoF, SOLID. Part 1/GoF, SOLID. Part 1/obj/Debug/net7.0/GoF, SOLID. Part 1.csproj.AssemblyReference.cache
+/Users/petrbinek/Projects/GoF, SOLID. Part 1/GoF, SOLID. Part 1/obj/Debug/net7.0/GoF, SOLID. Part 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petrbinek/Projects/GoF, SOLID. Part 1/GoF, SOLID. Part 1/obj/Debug/net7.0/GoF, SOLID. Part 1.AssemblyInfoInputs.cache
+/Users/petrbinek/Projects/GoF, SOLID. Part 1/GoF, SOLID. Part 1/obj/Debug/net7.0/GoF, SOLID. Part 1.AssemblyInfo.cs
+/Users/petrbinek/Projects/GoF, SOLID. Part 1/GoF, SOLID. Part 1/obj/Debug/net7.0/GoF, SOLID. Part 1.csproj.CoreCompileInputs.cache
