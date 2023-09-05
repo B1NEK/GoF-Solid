@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/petrbinek/Projects/GoF, SOLID. Part 1/GoF, SOLID. Part 1/GoF, SOLID. Part 1.csproj",
-      "projectName": "GoF, SOLID. Part 1",
-      "projectPath": "/Users/petrbinek/Projects/GoF, SOLID. Part 1/GoF, SOLID. Part 1/GoF, SOLID. Part 1.csproj",
+      "projectUniqueName": "/Users/petrbinek/Projects/GoF, SOLID. Part 1/GoF, SOLID. Part 1/GoF-SOLID. Part 1.csproj",
+      "projectName": "GoF-SOLID. Part 1",
+      "projectPath": "/Users/petrbinek/Projects/GoF, SOLID. Part 1/GoF, SOLID. Part 1/GoF-SOLID. Part 1.csproj",
       "packagesPath": "/Users/petrbinek/.nuget/packages/",
       "outputPath": "/Users/petrbinek/Projects/GoF, SOLID. Part 1/GoF, SOLID. Part 1/obj/",
       "projectStyle": "PackageReference",
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{8EA37EAA-378C-4F1F-9C59-2A9A7A3FFA6A}|Default">
-  <MonoDevelop.Ide.ItemProperties.GoF_22C_220SOLID._220Part_2201 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoF, SOLID. Part 1/Program.cs">
+    <Files>
+      <File FileName="GoF, SOLID. Part 1/Program.cs" Line="10" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GoF, SOLID. Part 1">
+            <Node name="GoF, SOLID. Part 1" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GoF-SOLID._220Part_2201 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
